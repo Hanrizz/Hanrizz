@@ -5,7 +5,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=maroon" />
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
@@ -22,7 +22,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="[https://www.instagram.com/yours/](https://www.instagram.com/fajarhandhika9/)">
   <img align="left" alt="Hanrizz's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
+<a href="https://www.roblox.com/users/3648957553/profile">
   <img align="left" alt="Hanrizz's Roblox" width="20px" src="https://cdn.simpleicons.org/Roblox/495f7e" />
 </a>
 
