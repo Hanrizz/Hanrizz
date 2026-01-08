@@ -19,13 +19,12 @@
  
 ### <summary><strong>Let's connect!</strong></summary>
 
-<a href="[https://www.instagram.com/yours/](https://www.instagram.com/fajarhandhika9/)"> **My Instagram
+<a href="[https://www.instagram.com/yours/](https://www.instagram.com/fajarhandhika9/)"> 
   <img align="left" alt="Hanrizz's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.roblox.com/users/3648957553/profile"> **My Roblox
+<a href="https://www.roblox.com/users/3648957553/profile">
   <img align="left" alt="Hanrizz's Roblox" width="20px" src="https://cdn.simpleicons.org/Roblox/495f7e" />
 </a>
 
-<p>
 ![My life](https://cdns.klimg.com/resized/630x/g/w/a/waifu_material_ini_fakta_seputar_nico_robin_di_anime_one_piece_yang_dijuluki_iblis_oleh_pemerintah_dunia/nico_robin-20240809-004-non_fotografer_kly.jpg)
-</p>
+
