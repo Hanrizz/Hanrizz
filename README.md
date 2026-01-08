@@ -27,7 +27,7 @@
   <img align="left" alt="Hanrizz's Roblox" width="20px" src="https://cdn.simpleicons.org/Roblox/495f7e" />
 </a>
 
-<P![Alt Text](https://cdns.klimg.com/resized/630x/g/w/a/waifu_material_ini_fakta_seputar_nico_robin_di_anime_one_piece_yang_dijuluki_iblis_oleh_pemerintah_dunia/nico_robin-20240809-004-non_fotografer_kly.jpg)>
+![Alt Text]([https://cdns.klimg.com/resized/630x/g/w/a/waifu_material_ini_fakta_seputar_nico_robin_di_anime_one_piece_yang_dijuluki_iblis_oleh_pemerintah_dunia/nico_robin-20240809-004-non_fotografer_kly.jpg](https://giphy.com/gifs/angry-robin-is-IkgV34Ci5z88vQG3ME))
 **My WIFE**
-</p>
+
 
