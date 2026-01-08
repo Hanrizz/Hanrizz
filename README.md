@@ -10,7 +10,8 @@
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently lea warning Data Analytics. </br>
+    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :Keyboard: I'm currently learning programing. </br>
     - :speech_balloon: Ask me about anything I can answer.</br>
     - :mailbox: How to reach me: <a href="mfajar.hanriz9@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/him. </br>
@@ -26,5 +27,5 @@
   <img align="left" alt="Hanrizz's Roblox" width="20px" src="https://cdn.simpleicons.org/Roblox/495f7e" />
 </a>
 
-![My life](https://cdns.klimg.com/resized/630x/g/w/a/waifu_material_ini_fakta_seputar_nico_robin_di_anime_one_piece_yang_dijuluki_iblis_oleh_pemerintah_dunia/nico_robin-20240809-004-non_fotografer_kly.jpg)
+![Alt Text](https://cdns.klimg.com/resized/630x/g/w/a/waifu_material_ini_fakta_seputar_nico_robin_di_anime_one_piece_yang_dijuluki_iblis_oleh_pemerintah_dunia/nico_robin-20240809-004-non_fotografer_kly.jpg)
 
